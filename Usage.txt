@@ -1,0 +1,2 @@
+LCtrl for autoclick.
+CPS and mode (hold/switch) can be controlled under task bar icon.
